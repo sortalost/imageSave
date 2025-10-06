@@ -30,7 +30,7 @@
             1759708800
         ],
         "uploaded_at": 1759763453,
-        "description": "\r\nTo have this site on your domain, you will need to fork the repo with this code (its private for now, since my github token was there initially, i have to delete commit history). Then deploy a vercel app and point it to your domain. You can google it, or I'll help you out with that."
+        "description": "See the <a href='https://github.com/sortalost/qmaury-site/?tab=readme-ov-file#qmaury-site' target='_blank'>README.MD</a> on github for instructions to deploy on your own."
     },
     {
         "name": "1724013756277751_1759763698.png",
@@ -41,7 +41,7 @@
             1759708800
         ],
         "uploaded_at": 1759763698,
-        "description": "So, there will be two github repos in total:\r\n\r\n<ul><li>Your site's code</li><li>Images storage</li>\r\n</ul>Both can be private/public or any combination as such."
+        "description": "So, there will be two github repos in total: for your site's codebase and for image storage\r\nBoth can be private/public or any combination as such."
     },
     {
         "name": "18_1759763943.jpg",
