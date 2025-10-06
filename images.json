@@ -42,5 +42,16 @@
         ],
         "uploaded_at": 1759763698,
         "description": "\r\nSo, there will be two github repos in total:\r\n<ul>\r\n<li>Your site's code</li>\r\n<li>Images storage</li>\r\n</ul>\r\n\r\nBoth can be private/public or any combination as such."
+    },
+    {
+        "name": "18_1759763943.jpg",
+        "path": "uploads/18_1759763943.jpg",
+        "url": "https://raw.githubusercontent.com/sortalost/temporary/master/uploads/18_1759763943.jpg",
+        "display_datetime": [
+            "2025-10-06(Mon)00:00",
+            1759708800
+        ],
+        "uploaded_at": 1759763943,
+        "description": "Oh also, do let me know how you want the feed to be, like latest images must be at the <a href=\"https://xn--z7x.xn--6frz82g/blog\" target=\"_blank\">bottom</a> or at the <a href=\"https://sortalost.is-a.dev/status\" target=\"_blank\">top</a>."
     }
 ]
