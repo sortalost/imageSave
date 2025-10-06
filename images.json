@@ -31,5 +31,16 @@
         ],
         "uploaded_at": 1759763453,
         "description": "\r\nTo have this site on your domain, you will need to fork the repo with this code (its private for now, since my github token was there initially, i have to delete commit history). Then deploy a vercel app and point it to your domain. You can google it, or I'll help you out with that."
+    },
+    {
+        "name": "1724013756277751_1759763698.png",
+        "path": "uploads/1724013756277751_1759763698.png",
+        "url": "https://raw.githubusercontent.com/sortalost/temporary/master/uploads/1724013756277751_1759763698.png",
+        "display_datetime": [
+            "2025-10-06(Mon)00:00",
+            1759708800
+        ],
+        "uploaded_at": 1759763698,
+        "description": "\r\nSo, there will be two github repos in total:\r\n<ul>\r\n<li>Your site's code</li>\r\n<li>Images storage</li>\r\n</ul>\r\n\r\nBoth can be private/public or any combination as such."
     }
 ]
