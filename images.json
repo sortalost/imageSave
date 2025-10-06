@@ -20,5 +20,16 @@
         ],
         "uploaded_at": 1759762927,
         "description": "The images are saved in a github repo (for this example, its <a href=\"https://github.com/sortalost/temporary/\" target=\"_blank\">here</a>).\r\n\r\nYou will also need a github token, with just \"repo\" scope - im using mine atm. Tokens can be made on <a href=\"https://github.com/settings/tokens/new\" target=\"_blank\">github</a>. Do no share it with anyone. It will set as an environment variable on vercel."
+    },
+    {
+        "name": "study_1759763453.jpg",
+        "path": "uploads/study_1759763453.jpg",
+        "url": "https://raw.githubusercontent.com/sortalost/temporary/master/uploads/study_1759763453.jpg",
+        "display_datetime": [
+            "2025-10-06(Mon)00:00",
+            1759708800
+        ],
+        "uploaded_at": 1759763453,
+        "description": "\r\nTo have this site on your domain, you will need to fork the repo with this code (its private for now, since my github token was there initially, i have to delete commit history). Then deploy a vercel app and point it to your domain. You can google it, or I'll help you out with that."
     }
 ]
