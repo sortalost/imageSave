@@ -9,5 +9,16 @@
         ],
         "uploaded_at": 1759762694,
         "description": "So this is what i was able to do.\r\n\r\nDescription accepts html, so <a href=\"/login\">this</a> link is the link to login. Username is \"maury\" and password is \"123\" for now.\r\n\r\nThe images are saved in a github repo (for this example, its <a href=\"https://github.com/sortalost/temporary/\" target=\"_blank\">here</a>). You will also need a github token, with just \"repo\" scope - im using mine atm.\r\n\r\nTo have this site on your domain, you will need to fork the repo with this code (its private for now, i'll make it public in a few minutes since my github token was there initially, i have to delete commit history). Then deploy a vercel app and point it to your domain. You can google it, or I'll help you out with that.\r\n\r\nSo, there will be two github repos in total: one for your site's code, another where your images will be stored. Both can be private/public or any combination as such.\r\n\r\nThats it ig?"
+    },
+    {
+        "name": "75379_1759762927.gif",
+        "path": "uploads/75379_1759762927.gif",
+        "url": "https://raw.githubusercontent.com/sortalost/temporary/master/uploads/75379_1759762927.gif",
+        "display_datetime": [
+            "2025-10-06(Mon)00:00",
+            1759708800
+        ],
+        "uploaded_at": 1759762927,
+        "description": "The images are saved in a github repo (for this example, its <a href=\"https://github.com/sortalost/temporary/\" target=\"_blank\">here</a>).\r\n\r\nYou will also need a github token, with just \"repo\" scope - im using mine atm. Tokens can be made on <a href=\"https://github.com/settings/tokens/new\" target=\"_blank\">github</a>. Do no share it with anyone. It will set as an environment variable on vercel."
     }
 ]
