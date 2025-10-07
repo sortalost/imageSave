@@ -1,2 +1,2 @@
-# temporary
-temp repo for maury's site
+# microposts-storage
+storage to [microposts](https://github.com/sortalost/microposts)' images.
