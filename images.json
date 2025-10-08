@@ -31,16 +31,5 @@
         ],
         "uploaded_at": 1759901319,
         "description": "example image four with an older timestamp"
-    },
-    {
-        "name": "8183975.jpg",
-        "path": "uploads/8183975.jpg",
-        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/8183975.jpg",
-        "display_datetime": [
-            "2025-10-08(Wed)06:46",
-            1759905960
-        ],
-        "uploaded_at": 1759906010,
-        "description": "delete img"
     }
 ]
