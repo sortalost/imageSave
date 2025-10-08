@@ -20,16 +20,5 @@
         ],
         "uploaded_at": 1759869690,
         "description": "html support exists here."
-    },
-    {
-        "name": "bettercallsaulcar.jpeg",
-        "path": "uploads/bettercallsaulcar.jpeg",
-        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/bettercallsaulcar.jpeg",
-        "display_datetime": [
-            "2024-02-06(Tue)08:30",
-            1707208200
-        ],
-        "uploaded_at": 1759901319,
-        "description": "example image four with an older timestamp"
     }
 ]
