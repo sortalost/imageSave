@@ -10,5 +10,17 @@
         "uploaded_at": 1759897107,
         "description": "street.jpg, example image two, edit, woohoo",
         "pin": 0
+    },
+    {
+        "name": "bwroad.webp",
+        "path": "uploads/bwroad.webp",
+        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/bwroad.webp",
+        "display_datetime": [
+            "2025-10-08(Wed)09:24",
+            1759915440
+        ],
+        "uploaded_at": 1759915508,
+        "description": "road.",
+        "pin": 0
     }
 ]
