@@ -9,7 +9,7 @@
         ],
         "uploaded_at": 1759915508,
         "description": "road.",
-        "pin": 0
+        "pin": 1
     },
     {
         "name": "street.jpg",
@@ -21,6 +21,6 @@
         ],
         "uploaded_at": 1759897107,
         "description": "street.jpg, example image two, edit, woohoo",
-        "pin": 0
+        "pin": 1
     }
 ]
