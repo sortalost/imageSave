@@ -20,16 +20,5 @@
         ],
         "uploaded_at": 1759869690,
         "description": "html support exists here."
-    },
-    {
-        "name": "8183975.jpg",
-        "path": "uploads/8183975.jpg",
-        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/8183975.jpg",
-        "display_datetime": [
-            "2025-10-08(Wed)07:06",
-            1759907160
-        ],
-        "uploaded_at": 1759907679,
-        "description": "another"
     }
 ]
