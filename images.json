@@ -1,17 +1,5 @@
 [
     {
-        "name": "street.jpg",
-        "path": "uploads/street.jpg",
-        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/street.jpg",
-        "display_datetime": [
-            "2025-10-08(Wed)04:18",
-            1759897080
-        ],
-        "uploaded_at": 1759897107,
-        "description": "street.jpg, example image two, edit, woohoo",
-        "pin": 0
-    },
-    {
         "name": "bwroad.webp",
         "path": "uploads/bwroad.webp",
         "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/bwroad.webp",
@@ -21,6 +9,18 @@
         ],
         "uploaded_at": 1759915508,
         "description": "road.",
+        "pin": 1
+    },
+    {
+        "name": "street.jpg",
+        "path": "uploads/street.jpg",
+        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/street.jpg",
+        "display_datetime": [
+            "2025-10-08(Wed)04:18",
+            1759897080
+        ],
+        "uploaded_at": 1759897107,
+        "description": "street.jpg, example image two, edit, woohoo",
         "pin": 0
     }
 ]
