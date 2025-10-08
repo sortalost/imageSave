@@ -9,7 +9,7 @@
         ],
         "uploaded_at": 1759897107,
         "description": "street.jpg, example image two, edit, woohoo",
-        "pin": true
+        "pin": 0
     },
     {
         "name": "fightclub.png",
@@ -21,6 +21,6 @@
         ],
         "uploaded_at": 1759869690,
         "description": "html support exists here.",
-        "pin":false
+        "pin":0
     }
 ]
