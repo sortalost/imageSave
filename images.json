@@ -31,5 +31,16 @@
         ],
         "uploaded_at": 1759901319,
         "description": "example image four with an older timestamp"
+    },
+    {
+        "name": "bwroad.webp",
+        "path": "uploads/bwroad.webp",
+        "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/bwroad.webp",
+        "display_datetime": [
+            "2025-10-08(Wed)05:30",
+            1759901400
+        ],
+        "uploaded_at": 1759901440,
+        "description": "default date string check"
     }
 ]
