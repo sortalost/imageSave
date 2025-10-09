@@ -16,11 +16,11 @@
         "path": "uploads/bwroad.webp",
         "url": "https://raw.githubusercontent.com/sortalost/microposts-storage/master/uploads/bwroad.webp",
         "display_datetime": [
-            "2025-10-08(Wed)09:24",
-            1759915440
+            "2025-10-09(Thu)09:24",
+            1760001840
         ],
         "uploaded_at": 1759915508,
-        "description": "thats a nice road\n\n<marquee>html works!</marquee>",
+        "description": "thats a nice road\n\nhtml works!",
         "pin": 0
     },
     {
